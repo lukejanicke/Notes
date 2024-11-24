@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d43578c389587bf9",
+        "id": "aa9ccc613b8d90d7",
         "type": "tabs",
         "children": [
           {
-            "id": "b6f3a60cb85acd5f",
+            "id": "907eff90e2715309",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zsh.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Zsh"
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lukejanicke",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,8 +172,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b6f3a60cb85acd5f",
+  "active": "907eff90e2715309",
   "lastOpenFiles": [
+    "Zsh.md",
     "WezTerm.md",
     "Starship.md",
     "Git.md",
@@ -192,7 +189,6 @@
     "eza.md",
     "bat.md",
     "zoxide.md",
-    "Zsh.md",
     "Vim Cheatsheet.md",
     "TeX.md",
     "Terminal.md",

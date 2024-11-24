@@ -1,0 +1,15 @@
+{
+  "theme": "system",
+  "enabledCssSnippets": [
+    "kbd",
+    "keyboard"
+  ],
+  "showViewHeader": false,
+  "cssTheme": "Catppuccin",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "textFontFamily": "Fira Sans",
+  "baseFontSize": 15,
+  "nativeMenus": false,
+  "translucency": true,
+  "interfaceFontFamily": ""
+}

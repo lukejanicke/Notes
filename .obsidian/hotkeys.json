@@ -1,0 +1,113 @@
+{
+  "app:toggle-left-sidebar": [
+    {
+      "key": "B",
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ]
+    }
+  ],
+  "editor:insert-table": [
+    {
+      "key": "T",
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ]
+    }
+  ],
+  "editor:set-heading-0": [
+    {
+      "key": "0",
+      "modifiers": [
+        "Mod"
+      ]
+    }
+  ],
+  "editor:set-heading-1": [
+    {
+      "key": "1",
+      "modifiers": [
+        "Mod"
+      ]
+    }
+  ],
+  "editor:set-heading-2": [
+    {
+      "key": "2",
+      "modifiers": [
+        "Mod"
+      ]
+    }
+  ],
+  "editor:set-heading-3": [
+    {
+      "key": "3",
+      "modifiers": [
+        "Mod"
+      ]
+    }
+  ],
+  "editor:set-heading-4": [
+    {
+      "key": "4",
+      "modifiers": [
+        "Mod"
+      ]
+    }
+  ],
+  "editor:set-heading-5": [
+    {
+      "key": "5",
+      "modifiers": [
+        "Mod"
+      ]
+    }
+  ],
+  "editor:set-heading-6": [
+    {
+      "key": "6",
+      "modifiers": [
+        "Mod"
+      ]
+    }
+  ],
+  "editor:toggle-comments": [],
+  "editor:toggle-source": [
+    {
+      "key": "/",
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ]
+    }
+  ],
+  "obs-text-wrapper:quick-tag-one": [
+    {
+      "key": "K",
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ]
+    }
+  ],
+  "obs-text-wrapper:wrap-text": [
+    {
+      "key": "T",
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ]
+    }
+  ],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-8": [],
+  "workspace:undo-close-pane": []
+}

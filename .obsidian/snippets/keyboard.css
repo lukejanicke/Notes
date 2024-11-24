@@ -1,0 +1,11 @@
+/* Style for <kbd> elements. */
+.cm-html-embed kbd,
+.table-cell-wrapper kbd {
+    display: inline-block;
+    color: var(--text-normal);
+    padding: 0em 0.5em;
+    border-radius: 0.2em;
+    box-shadow: 0em 0.1em 0em var(--text-normal);
+    border: 1px solid var(--text-normal);
+    background-color: var(--background-primary);
+}

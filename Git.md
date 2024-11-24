@@ -16,7 +16,7 @@ Set **Git** username, email address and default branch name.
 
 ```shell
 git config --global user.name "Luke Janicke"
-git config --global user.email "lukejanicke@outlook.com"
+git config --global user.email "lukejanicke@example.com"
 git config --global init.defaultBranch main
 ```
 

@@ -11,10 +11,14 @@
             "id": "b6f3a60cb85acd5f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Zsh.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Zsh"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lukejanicke",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,20 +178,21 @@
   },
   "active": "b6f3a60cb85acd5f",
   "lastOpenFiles": [
+    "WezTerm.md",
+    "Starship.md",
+    "Git.md",
+    "fzf.md",
+    "Fish.md",
+    "Dotfiles.md",
+    "Archive/Certbot.md",
     "macOS.md",
     "Homebrew.md",
-    "Starship.md",
-    "Dotfiles.md",
-    "Git.md",
-    "Fish.md",
     "Finder.md",
     "fd.md",
     "eza.md",
     "bat.md",
     "zoxide.md",
-    "fzf.md",
     "Zsh.md",
-    "WezTerm.md",
     "Vim Cheatsheet.md",
     "TeX.md",
     "Terminal.md",
@@ -198,7 +204,6 @@
     "Go.md",
     "1Password CLI.md",
     "Command Line Tools.md",
-    "macOS Applications.md",
     "Visual Studio Code Keyboard Shortcuts for macOS.pdf",
     "LaTeX Cheat Sheet.pdf",
     "Archive/LaTeX Cheat Sheet.pdf"

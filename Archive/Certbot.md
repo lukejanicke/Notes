@@ -16,7 +16,7 @@ sudo certbot certonly
 ### Obtaining certificates
 
 ```bash
-sudo certbot certonly --manual -d lukejanicke.com,www.lukejanicke.com
+sudo certbot certonly --manual -d example.com,www.example.com
 ```
 
 ### Renewing certificates
@@ -29,8 +29,8 @@ certbot renew
 
 ```bash
 sudo aws iam Upload-server-certificate \
-    --server-certificate-name lukejanicke.com-2018-01-28 \
-    --certificate-body file:////etc/letsencrypt/live/lukejanicke.com/fullchain.pem \
-    --private-key file:////etc/letsencrypt/live/lukejanicke.com/privkey.pem \
-    --path /cloudfront/lukejanicke.com-2018-01-28/
+    --server-certificate-name example.com-2018-01-28 \
+    --certificate-body file:////etc/letsencrypt/live/example.com/fullchain.pem \
+    --private-key file:////etc/letsencrypt/live/example.com/privkey.pem \
+    --path /cloudfront/example.com-2018-01-28/
 ```

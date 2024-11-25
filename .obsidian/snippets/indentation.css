@@ -1,8 +1,0 @@
-/* Book style paragraph indentation.
-   Designed to work with Minimal theme. */
-[class="cm-line"]:not(:has(> br:only-child)) + [class="cm-line"],
-[class="cm-line"]:not(:has(> br:only-child)) + [class="cm-active cm-line"],
-[class="cm-active cm-line"]:not(:has(> br:only-child)) + [class="cm-line"],
-[class="cm-active cm-line"]:not(:has(> br:only-child)) + [class="cm-active cm-line"] {
-    text-indent: 2em;
-}

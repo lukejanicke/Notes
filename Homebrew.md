@@ -13,7 +13,7 @@
 - [x] git
 - [x] go
 - [ ] httpie
-- [ ] nvm - (→ node/npm)
+- [x] nvm - (→ node/npm)
 - [x] neovim
 - [x] pandoc
 - [x] pyenv

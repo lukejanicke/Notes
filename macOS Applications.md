@@ -28,7 +28,7 @@
 - [ ] Mathpix Snipping Tool
 - [x] Microsoft [[Visual Studio Code]]
 - [ ] Mozilla Firefox
-- [ ] [[Obsidian]]
+- [x] [[Obsidian]]
 - [ ] Ollama
 - [ ] [[SageMath]] (via [[Homebrew]])
 - [x] Tencent Meeting

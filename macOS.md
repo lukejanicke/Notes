@@ -27,6 +27,9 @@ Alias `app` set in `~/.zshrc`. (See [[Zsh]].)
 		- AutoFill from Passwords (new Apple app) **OFF**
 		  *I think I should be able to see 1Password as an option here.*
 	- Language & Region / Preferred Languages: **English (Australia) — Primary**
+- Appearance
+	- Show scroll bars ... **When scrolling**
+	  *There is a bug in Sequoia with Preview and Continuous Scroll and Zoom to Fit.*
 - Apple Intelligence & Siri / *Joined wait list*
 - Control Centre
 	- Clock Options…

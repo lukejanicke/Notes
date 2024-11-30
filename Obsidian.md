@@ -7,8 +7,14 @@
 
 - [ ] Make Catppuccin column width a bit wider. Check in Style Settings. Otherwise, write a CSS Snippet.
 - [ ] Write a CSS snippet to format tables a bit nicer, using underlying theme names for colours.
-- [ ] Remove light borders from Catppuccin theme, and window shadow too if possible!
+- [ ] Remove light borders from Catppuccin themes.
 - [ ] Write a CSS snippet for advanced checklists.
+- [ ] Finish basic configuration settings.
+
+## Configuration
+
+- Turn on community plugins
+- …
 
 ## CSS snippets
 

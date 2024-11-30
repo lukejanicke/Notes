@@ -4,9 +4,6 @@
 - [Installing Node.js via package managers: nvm](https://nodejs.org/en/download/package-manager/all#nvm)
 - [nvm-sh](https://github.com/nvm-sh) / [nvm](https://github.com/nvm-sh/nvm)
 
-## Packages
-
-- [x] Node/NPM
 ## Installation
 
 Install **Node** with the official install script.

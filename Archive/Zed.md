@@ -42,5 +42,4 @@ To install the **Zed CLI**, you can either:
     "dark": "Catppuccin Mocha"
   }
 }
-
 ```

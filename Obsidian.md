@@ -1,6 +1,6 @@
 # Obsidian
 
-- [Obsidian](https://obsidian.md) / [Help](https://help.obsidian.md/Home)
+- [Obsidian](https://obsidian.md) / [Help](https://help.obsidian.md/Home) / [Docs](https://docs.obsidian.md/Home)
 
 > [!bug] Conflicting shortcuts
 > Obsidian confuses <kbd>fn</kbd> + <kbd>control</kbd> + <kbd>left</kbd> / <kbd>right</kbd> (the default [Mac window tiling shortcuts](https://support.apple.com/en-au/guide/mac-help/mchl9674d0b0/mac)) with <kbd>fn</kbd> + <kbd>left</kbd> / <kbd>right</kbd> (the [Windows keys on a Mac keyboard](https://support.apple.com/en-au/guide/mac-help/cpmh0152/mac) for <kbd>Home</kbd> / <kbd>End</kbd>). Forum post: [Obsidian confuses Mac window tiling shortcut for Windows Home/End shortcut](https://forum.obsidian.md/t/obsidian-confuses-mac-window-tiling-shortcut-for-windows-home-end-shortcut/91551).

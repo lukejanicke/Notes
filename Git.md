@@ -1,7 +1,7 @@
 # Git
 
 - [Git](https://git-scm.com)
-- [Git Cheetsheet (GitHub Education)](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Git Cheatsheet (GitHub Education)](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## Installation
 

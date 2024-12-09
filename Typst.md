@@ -3,6 +3,10 @@
 - [Typst](https://typst.app/home/)
 - [Tinymist](https://github.com/Myriad-Dreamin/tinymist) / [Documentation](https://myriad-dreamin.github.io/tinymist/)
 
+
+> [!note] Typst and Tinymist Typst
+> The **Tinymist Typst** extension for [[Visual Studio Code]] bundles the **Typst** compiler.
+
 ## Installation
 
 Install **Typst** with [Homebrew](Homebrew.md).
@@ -27,16 +31,16 @@ typst watch file.typ
 
 ## Visual Studio Code
 
-Install the **Tinymist** extension for Visual Studio Code.
+Install the **Tinymist Typst** extension for [[Visual Studio Code]].
 
-### Tinymist settings
+### Tinymist Typst settings
 
 | Name                     | Setting    |
 | ------------------------ | ---------- |
 | Tinymist: Export PDF     | `onSave`   |
 | Tinymist: Formatter Mode | `typstyle` |
 
-Hide action Controls on the editor panel by adding the following to `settings.json`.
+Hide action controls on the editor panel by adding the following to `settings.json`.
 
 ```JSON
 "[typst]": {

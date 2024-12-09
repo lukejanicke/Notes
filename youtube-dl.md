@@ -46,7 +46,7 @@ Download video with subtitles in specified language and format.
 youtube-dl -f FORMAT --sub-lang LANGS --sub-format FORMAT "URL"
 ```
 
-Download video with subtitles embedded. [FFmpeg](FFmpeg.md) required.
+Download video with subtitles embedded. **FFmpeg** required.
 
 ```zsh
 youtube-dl -f FORMAT --embed-subs --all-subs "URL"
@@ -60,4 +60,4 @@ youtube-dl [OptionS] -a FILE
 
 ## Configuration
 
-Save default configurations in `~/.config/youtube-dl/config`.
+Save default options in `~/.config/youtube-dl/config`.

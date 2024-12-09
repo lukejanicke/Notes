@@ -37,7 +37,7 @@ Install [**`kickstart.nvim`**](https://github.com/nvim-lua/kickstart.nvim) with 
 git clone https://github.com/nvim-lua/kickstart.nvim.git ~/.config/nvim
 ```
 
-Start **`nvim`**.
+Start **Neovim**.
 
 ```shell
 nvim

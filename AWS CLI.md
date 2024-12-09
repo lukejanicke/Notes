@@ -10,8 +10,6 @@ Install with [Homebrew](Homebrew.md).
 brew install awscli
 ```
 
-This will install AWS CLI v2.
-
 ## Configure
 
 ```zsh
@@ -20,9 +18,9 @@ aws configure
 
 Enter AWS Access Key ID and AWS Secret Access Key.
 
-Enter default region name `ap-southeast-1`.
+Enter default region name: e.g., `ap-southeast-1`.
 
-Enter default output format `text` (best for Terminal).
+Enter default output format: e.g., `text` (best for Terminal).
 
 Configuration files are created in `~/.aws/config`.
 

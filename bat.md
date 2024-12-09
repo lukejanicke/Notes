@@ -13,7 +13,7 @@ brew install bat
 ## Catppuccin
 
 Create the **bat** configuration directory with a theme subdirectory.
-    
+
 ```shell
 mkdir -p "$(bat --config-dir)/themes"
 ```

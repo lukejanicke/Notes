@@ -3,7 +3,9 @@
 - [Terminal User Guide](https://support.apple.com/en-au/guide/terminal/welcome/mac) / [Keyboard shortcuts](https://support.apple.com/en-au/guide/terminal/trmlshtcts/mac)
 - [Catppuccin (GitHub)](https://github.com/catppuccin/Terminal.app)
 
-See [[Shell Shortcuts]] for **Terminal** and other shell keyboard shortcuts.
+See [[Terminal Shortcuts]] for **Terminal** and other shell keyboard shortcuts.
+
+See [[Terminal Commands]] for **Terminal** and other shell commands.
 
 > [!note] [[Fish]] sets **Terminal** window and tab bar titles
 > [[Fish]] sets **Terminal** window and tab bar titles to an abbreviated current working directory, and prepends the shell name if the default shell is left. For example, `zsh ~/D/Python`. Changing directory when not in [[Fish]] shell will not update window and tab bars. I would prefer that **Terminal** settings take precedence.

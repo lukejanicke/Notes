@@ -2,6 +2,16 @@
 
 - [Dotfiles (GitHub)](https://github.com/lukejanicke/dotfiles)
 
+## Quick commands
+
+```shell
+dotfiles add <file>
+dotfiles commit -m "added <file>"
+dotfiles add -u
+dotfiles push origin main
+```
+
+
 ## Setup
 
 Create a bare repository in `~/Documents`.
@@ -37,8 +47,14 @@ Add the remote repository to the bare repository.
 dotfiles remote add origin git@github.com:lukejanicke/dotfiles.git
 ```
 
-Push changes.
+Push changes and set default remote branch.
 
 ```shell
 dotfiles push -u origin master
+```
+
+Stage all modified tracked dotfiles.
+
+```shell
+dotfiles add -u
 ```

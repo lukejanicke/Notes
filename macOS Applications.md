@@ -1,5 +1,7 @@
 # Mac Apps
 
+## Trial
+
 ## App Store
 
 - [x] 1Password for Safari
@@ -19,7 +21,9 @@
 
 - [x] 1Password for Mac
 - [ ] Blender
+- [x] Cursor
 - [x] ChatGPT
+- [x] Cloudflare WARP
 - [ ] Discord
 - [ ] [[Docker]]
 - [x] GitHub Desktop
@@ -31,7 +35,10 @@
 - [x] [[Obsidian]]
 - [ ] Ollama
 - [ ] [[SageMath]] (via [[Homebrew]])
+- [x] Skim
 - [x] Tencent Meeting
+- [x] Warp
 - [x] [[WezTerm]]
+- [x] Windsurf
 - [ ] [[Zed]]
 - [ ] Zoom

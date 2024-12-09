@@ -1,5 +1,7 @@
 # macOS
 
+- [ ] Review App Shortcuts.
+
 ## Reset Launchpad apps order
 
 ```

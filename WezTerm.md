@@ -3,8 +3,9 @@
 - [WezTerm](https://wezfurlong.org/wezterm/index.html) / [Configuration](https://wezfurlong.org/wezterm/config/files.html)
 - [Catppuccin (GitHub)](https://github.com/catppuccin/wezterm)
 
-See [[Shell Shortcuts]] for **WezTerm** and other shell keyboard shortcuts.
+See [[Terminal Shortcuts]] for **WezTerm** and other shell keyboard shortcuts.
 
+See [[Terminal Commands]] for **WezTerm** and other shell commands.
 ## Installation
 
 Download and install **WezTerm** directly from the official website.

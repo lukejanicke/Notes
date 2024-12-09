@@ -3,31 +3,7 @@
 - [Visual Studio Code](https://code.visualstudio.com)
 - [Visual Studio Code Keyboard Shortcuts for macOS (PDF)](Visual Studio Code Keyboard Shortcuts for macOS.pdf)
 
-## Extensions
-
-- [x] C/C++ et al.
-- [x] Catppuccin
-- [x] Codeium
-- [x] Dev Containers
-- [x] Docker
-- [x] Even Better TOML
-- [x] GitHub Copilot et al.
-- [x] GitHub Repositories
-- [x] Go
-- [x] Haskell et al.
-- [x] IntelliCode et al.
-- [x] isort
-- [x] Juliia
-- [x] Jupyter et al.
-- [x] LaTeX Workshop
-- [x] Live Preview
-- [x] Monokai Pro
-- [x] Prettier
-- [x] Python et al.
-- [x] Swift
-- [x] Tinymist Typst
-
-**GitHub Copilot** and **Microsoft IntelliCode** work together.
+Note, **GitHub Copilot** and **Microsoft IntelliCode** work together.
 ## CLI
 
 From the command palette, run *Shell Command: Install 'code' command in PATH*.
